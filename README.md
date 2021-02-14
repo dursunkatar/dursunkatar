@@ -18,10 +18,6 @@ I'm working as a Software Developer in [BSS Yazılım](http://www.bssyazilim.com
 
 <img src="https://github.com/github/explore/blob/master/topics/aspnet/aspnet.png?raw=true" height="50" />   <img src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png?raw=true" height="50" /> <img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="50" /> <img src="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true" height="50" /> <img src="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png?raw=true" height="50" />  <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="50" />  <img src="https://github.com/github/explore/blob/master/topics/nuget/nuget.png?raw=true" height="50" />      <img src="https://github.com/github/explore/blob/master/topics/typescript/typescript.png?raw=true" height="50" />  <img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="50" /> <img src="https://github.com/github/explore/blob/master/topics/sql-server/sql-server.png" height="50" />  <img src="https://github.com/github/explore/blob/master/topics/sql/sql.png" height="50" /> <img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png" height="50" />  <img src="https://github.com/github/explore/blob/master/topics/html/html.png" height="50" />
 
-## 📚 Learning
-
-<img src="https://github.com/github/explore/blob/master/topics/deno/deno.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/go/go.png?raw=true" height="32" />
-
 ## 📫 How to reach me
 
 You can find and get in touch with me on below accounts!
