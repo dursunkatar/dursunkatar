@@ -10,7 +10,7 @@ Check out my [website](http://dursunkatar.com)
 
 - 🙋‍♂️ Pronouns: He/him
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebioo&layout=compact" alt="nebioo" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dursunkatar&layout=compact" alt="dursunkatar" />
 
 ![Dursun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dursunkatar&show_icons=true) 
 
