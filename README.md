@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-My name is Dursun Katar, I'm based in Turkey, beautiful city Istanbul.
+My name is Dursun Katar.
 
 I'm a versatile Software Developer with over 5 years of comprehensive experience, focused on working with challenging projects and learning while working.
 
