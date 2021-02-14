@@ -8,9 +8,7 @@ I'm a versatile Software Developer with over 5 years of comprehensive experience
 
 - 🙋‍♂️ Pronouns: He/him
 
-![Dursun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dursunkatar&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dursunkatar&show_icons=true)
+![Dursun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dursunkatar&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dursunkatar&show_icons=true)
 
 ## 💼 Job
 
