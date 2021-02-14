@@ -1,10 +1,10 @@
 # 👋 Hi there
 
-My name is Engin Polat, I'm based in Turkey, beautiful city Istanbul.
+My name is Dursun Katar, I'm based in Turkey, beautiful city Istanbul.
 
-I'm a versatile Software Engineer with over 20 years of comprehensive experience, focused on working with challenging projects and learning while working.
+I'm a versatile Software Developer with over 5 years of comprehensive experience, focused on working with challenging projects and learning while working.
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fpolatengin.dursunkatar%2Freadme)
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkatardursun.dursunkatar%2Freadme)
 
 - 🙋‍♂️ Pronouns: He/him
 
@@ -26,7 +26,7 @@ I'm working as a Software Developer in [BSS Yazılım](http://www.bssyazilim.com
 
 You can find and get in touch with me on below accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/polatengin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dursunkatar/)
+[![Linkedin Badge](https://img.shields.io/badge/katardursun-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dursunkatar/)
 
 ## 💬 Ask me about
 
