@@ -4,6 +4,8 @@ My name is Dursun Katar.
 
 I'm a versatile Software Developer with over 5 years of comprehensive experience, focused on working with challenging projects and learning while working.
 
+Check out my [website](http://dursunkatar.com)
+
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkatardursun.dursunkatar%2Freadme)
 
 - 🙋‍♂️ Pronouns: He/him
