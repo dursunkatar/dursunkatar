@@ -2,7 +2,7 @@
 
 My name is Dursun Katar.
 
-I'm a versatile Software Developer with over 5 years of comprehensive experience, focused on working with challenging projects and learning while working.
+I'm a versatile Software Developer with over 8 years of comprehensive experience, focused on working with challenging projects and learning while working.
 
 Check out my [website](http://dursunkatar.com)
 
