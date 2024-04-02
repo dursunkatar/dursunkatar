@@ -14,10 +14,6 @@ Check out my [website](http://dursunkatar.com)
 
 ![Dursun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dursunkatar&show_icons=true) 
 
-## 💼 Job
-
-I'm working as a Software Developer in [Solvepark Yazılım](https://solvepark.com/)
-
 ## Skills
 
 <p>
