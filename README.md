@@ -1,10 +1,12 @@
-# 👋 Hi there
+👋 Hi there!
 
-My name is Dursun Katar.
+I'm **Dursun Katar**, a Senior Software Developer with 8+ years of experience in developing high-performance web and desktop applications. My expertise lies in building scalable solutions, specializing in **C#**, **ASP.NET Core**, **Entity Framework**, and **TCP/IP Socket Programming**. I enjoy tackling complex challenges and delivering robust, efficient systems.
 
-I'm a versatile Software Developer with over 8 years of comprehensive experience, focused on working with challenging projects and learning while working.
+I have worked extensively in **ERP**, **e-commerce**, and **automation systems**, integrating with platforms like **Stripe**, **SAP**, and **Iyzico**. Whether it's designing a new system from scratch or optimizing an existing one, I strive for innovation and excellence in every project.
 
-Check out my [website](http://dursunkatar.com)
+📫 Want to collaborate? Reach out at **dursun.katar@gmail.com** or check out my [website](https://dursunkatar.com/).
+
+Let's build something great together! 🚀
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkatardursun.dursunkatar%2Freadme)
 
