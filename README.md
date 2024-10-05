@@ -1,8 +1,10 @@
 👋 Hi there!
 
-I'm **Dursun Katar**, a Senior Software Developer with 8+ years of experience in developing high-performance web and desktop applications. My expertise lies in building scalable solutions, specializing in **C#**, **ASP.NET Core**, **Entity Framework**, and **TCP/IP Socket Programming**. I enjoy tackling complex challenges and delivering robust, efficient systems.
+I'm Dursun Katar, a Senior Software Developer with over 8 years of experience developing web and desktop applications across various industries. My work includes building high-performance, scalable solutions, with a strong focus on solving complex technical challenges.
 
-I have worked extensively in **ERP**, **e-commerce**, and **automation systems**, integrating with platforms like **Stripe**, **SAP**, and **Iyzico**. Whether it's designing a new system from scratch or optimizing an existing one, I strive for innovation and excellence in every project.
+Throughout my career, I've worked on projects like **vehicle rental platforms**, **career management systems**, **hospital automation**, **ERP systems**, and **e-commerce** solutions. I have extensive experience integrating systems with platforms such as **Stripe**, **SAP**, **Channable**, **Autorola**, **Pazarama**, **N11**, **Akınsoft**, and **Iyzico**.
+
+I am passionate about creating robust, efficient systems from the ground up, as well as optimizing and scaling existing solutions to meet evolving business needs. I enjoy tackling new challenges and continuously strive to improve both my skills and the systems I build.
 
 📫 Want to collaborate? Reach out at **dursun.katar@gmail.com** or check out my [website](https://dursunkatar.com/).
 
