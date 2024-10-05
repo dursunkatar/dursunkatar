@@ -10,8 +10,6 @@ I am passionate about creating robust, efficient systems from the ground up, as 
 
 Let's build something great together! 🚀
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkatardursun.dursunkatar%2Freadme)
-
 - 🙋‍♂️ Pronouns: He/him
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dursunkatar&layout=compact" alt="dursunkatar" />
