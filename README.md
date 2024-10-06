@@ -1,6 +1,6 @@
 👋 Hi there!
 
-I'm Dursun Katar, a Senior Software Developer with over 8 years of experience developing web and desktop applications across various industries. My work includes building high-performance, scalable solutions, with a strong focus on solving complex technical challenges.
+I'm Dursun Katar, a Senior Software Developer with over 12 years of experience developing web and desktop applications across various industries. My work includes building high-performance, scalable solutions, with a strong focus on solving complex technical challenges.
 
 Throughout my career, I've worked on projects like **vehicle rental platforms**, **career management systems**, **hospital automation**, **ERP systems**, and **e-commerce** solutions. I have extensive experience integrating systems with platforms such as **Stripe**, **SAP**, **Channable**, **Autorola**, **Pazarama**, **N11**, **Akınsoft**, and **Iyzico**.
 
