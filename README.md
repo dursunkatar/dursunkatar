@@ -1,41 +1,85 @@
-👋 Hi there!
+# 👋 Hi, I'm Dursun Katar
 
-I'm Dursun Katar, a Senior Software Developer with over 12 years of experience developing web and desktop applications across various industries. My work includes building high-performance, scalable solutions, with a strong focus on solving complex technical challenges.
+I'm a **Senior Software Developer** with over **13 years of experience** in designing and developing scalable web and desktop applications across industries such as e-commerce, automotive, healthcare, and finance.
 
-Throughout my career, I've worked on projects like **vehicle rental platforms**, **career management systems**, **hospital automation**, **ERP systems**, and **e-commerce** solutions. I have extensive experience integrating systems with platforms such as **Stripe**, **SAP**, **Channable**, **Autorola**, **Pazarama**, **N11**, **Akınsoft**, and **Iyzico**.
+I specialize in building robust systems from the ground up, optimizing existing architectures, and delivering performant, maintainable software solutions tailored to real-world business needs.
 
-I am passionate about creating robust, efficient systems from the ground up, as well as optimizing and scaling existing solutions to meet evolving business needs. I enjoy tackling new challenges and continuously strive to improve both my skills and the systems I build.
+---
 
-📫 Want to collaborate? Reach out at **dursun.katar@gmail.com** or check out my [website](https://dursunkatar.com/).
+## 🛠️ Key Integration Experience
 
-Let's build something great together! 🚀
+### E-commerce Marketplaces
+- [Amazon SP-API](https://developer.amazonservices.com/)
+- [N11 API](https://magazadestek.n11.com/faydali-dokumanlar)
+- [Pazarama API](https://cdn.pazarama.com/asset/entegrasyondokumani/APIEntegrasyonDokumani18.09.2023.pdf)
+- [Channable API](https://www.channable.com/blog/channable-api-2)
 
-- 🙋‍♂️ Pronouns: He/him
+### Payment Systems
+- [Stripe](https://stripe.com/docs/api)
+- [Iyzico](https://iyzico.com/)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dursunkatar&layout=compact" alt="dursunkatar" />
+### Accounting & ERP
+- **SAP** (Custom financial integrations)
+- **Akınsoft ERP**
 
-![Dursun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dursunkatar&show_icons=true) 
+### Automotive Platforms
+- [Autorola API](https://www.autorola.com/)
 
-## Skills
+### Finance & Crypto
+- [Binance API](https://binance-docs.github.io/apidocs/spot/en/)
+
+### Messaging & Communication
+- [Infobip SMS API](https://www.infobip.com/docs/api)
+
+---
+
+## 🚀 What I Do
+- Backend architecture design  
+- API development & third-party integrations  
+- System performance tuning & optimization  
+- Scalable and maintainable codebase development
+
+> “Let’s turn complex systems into smart solutions — together.”
+
+---
+
+## 💻 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dursunkatar&layout=compact" alt="Top Languages" />
+
+![Dursun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dursunkatar&show_icons=true)
+
+---
+
+## 🧠 Skills
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
- <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://i.pinimg.com/originals/ff/00/07/ff0007b52b67bbc5f86b88769e9c1b67.png" alt="Visual Studio 2019 IDE" width="45" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VsCode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://i.pinimg.com/originals/ff/00/07/ff0007b52b67bbc5f86b88769e9c1b67.png" alt="Visual Studio" width="45" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40"/>
 </p>
 
-## 📫 How to reach me
+---
 
-You can find and get in touch with me on below accounts!
+## 📫 Get in Touch
 
-[![Linkedin Badge](https://img.shields.io/badge/katardursun-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dursun-katar/)
-[![Mail Badge](https://img.shields.io/badge/dursun.katar@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dursun.katar@gmail.com)](mailto:dursun.katar@gmail.com)
+You can find and contact me through the following platforms:
+
+[![LinkedIn Badge](https://img.shields.io/badge/katardursun-follow%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dursun-katar/)  
+[![Email Badge](https://img.shields.io/badge/dursun.katar@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dursun.katar@gmail.com)  
+
+🌐 **Website:** [dursunkatar.com](https://www.dursunkatar.com)
+
+---
+
+🙋‍♂️ **Pronouns:** He/Him  
+🚀 Let's build something great together!
