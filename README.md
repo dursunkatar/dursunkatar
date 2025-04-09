@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dursun Katar
 
-I'm a **Senior Software Developer** with over **13 years of experience** in designing and developing scalable web and desktop applications across industries such as e-commerce, automotive, healthcare, and finance.
+I'm a **Senior Software Developer** with over **13+ years of experience** in designing and developing scalable web and desktop applications across industries such as e-commerce, automotive, healthcare, and finance.
 
 I specialize in building robust systems from the ground up, optimizing existing architectures, and delivering performant, maintainable software solutions tailored to real-world business needs.
 
