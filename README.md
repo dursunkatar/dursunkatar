@@ -43,6 +43,8 @@ I specialize in building robust systems from the ground up, optimizing existing 
 
 ---
 
+🌐 **Website:** [dursunkatar.com](https://www.dursunkatar.com)
+
 ## 💻 GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dursunkatar&layout=compact" alt="Top Languages" />
@@ -76,8 +78,6 @@ You can find and contact me through the following platforms:
 
 [![LinkedIn Badge](https://img.shields.io/badge/katardursun-follow%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dursun-katar/)  
 [![Email Badge](https://img.shields.io/badge/dursun.katar@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dursun.katar@gmail.com)  
-
-🌐 **Website:** [dursunkatar.com](https://www.dursunkatar.com)
 
 ---
 
